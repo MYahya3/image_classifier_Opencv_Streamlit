@@ -1,4 +1,4 @@
-# image classifier Using Opencv Streamlit
+# Image classifier using Opencv Streamlit
 
 #### To try the Image Classifer Model App online use the below link 
 ```bash
